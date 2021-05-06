@@ -1,0 +1,122 @@
+{
+  "pathwayTitle": "Online Product Engineering Dojo",
+  "title": "Introduction to Product Engineering",
+  "private": true,
+  "description": "Introduction to Product Engineering - process for designing and developing better products.",
+  "difficulty": "beginner",
+  "time": "30 minutes",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Welcome",
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
+      },
+      {
+        "title": "Product Engineering",
+        "text": "step2.md"
+      },
+      {
+        "title": "Moving from a Project to a Product Mindset",
+        "text": "step3.md"
+      },
+      {
+        "title": "Role of Product Engineer",
+        "text": "step4.md"
+      },
+      {
+        "title": "Product Engineer - Skill Set",
+        "text": "step5.md",
+        "verify": "step5-verify.sh"
+      },
+      {
+        "title": "Assessment",
+        "text": "step6.md",
+        "answer": "step6-answer.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step7.md",
+        "answer": "step7-answer.md"
+      },
+      {
+        "title": "Product Engineering - Stages",
+        "text": "step8.md"
+      },
+      {
+        "title": "Product Engineering - Brainstorming Ideas",
+        "text": "step9.md"
+      },
+      {
+        "title": "Product Engineering - Need for a Manifesto",
+        "text": "step10.md",
+        "verify": "step10-verify.sh"
+      },
+      {
+        "title": "Assessment",
+        "text": "step11.md",
+        "answer": "step11-answer.md"
+      },
+      {
+        "title": "Product Engineering - Manifesto",
+        "text": "step12.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step13.md",
+        "answer": "step13-answer.md"
+      },
+      {
+        "title": "Curious Student - Challenge",
+        "text": "step14.md"
+      }
+    ],
+    "assets": {
+      "host01": [
+        {
+          "file": "dialog.py",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog1.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog1.yaml",
+          "target": "/root/"
+        },
+        {
+          "file": "dialog2.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog2.yaml",
+          "target": "/root/"
+        },
+        {
+          "file": "prereq.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        }
+
+      ]
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": false,
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nYou can type in and run shell commands here.\r\n\u001b[m"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

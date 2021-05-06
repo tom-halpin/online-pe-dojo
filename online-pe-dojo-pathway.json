@@ -1,0 +1,31 @@
+{
+  "title": "Online Product Engineering Dojo",
+  "description": "Product Engineering - designing and developing better products.",
+  "courses": [
+    {
+      "title": "Welcome",
+      "description": "Overview of the Online Product Engineering Dojo: the back story, the cast & the opportunity.",
+      "course_id": "pe-welcome"
+    },
+    {
+      "title": "Introduction to Product Engineering",
+      "description": "Introduction to Product Engineering.",
+      "course_id": "pe-introduction"
+    },
+    {
+      "title": "Design Thinking",
+      "description": "Learn about the role of Design Thinking in Product Engineering.",
+      "course_id": "pe-design-thinking"
+    },
+    {
+      "title": "Getting Started",
+      "description": "Assessing current state of your teams' Product Engineering practices and how to start to improve them.",
+      "course_id": "pe-getting-started"
+    },
+    {
+      "title": "Assessment",
+      "description": "This module contains a small exam. Pass the exam complete the dojo. Answers to all the questions are in the other modules.",
+      "course_id": "pe-assessment"
+    }
+  ]
+}

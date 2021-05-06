@@ -1,0 +1,80 @@
+---
+speaking: Pennyworth
+text: >
+    As a team we are making good progress.
+---
+speaking: Pennyworth
+text: >
+    One thing I think we should focus on early is how we plan to socialize and scale our work.
+---
+speaking: Miyagi
+text: >
+    That is a good point.
+---
+speaking: Miyagi
+text: >
+    What I have found useful in the past is the use of a Product Engineering Manifesto.
+---
+speaking: Paulo
+text: >
+    You mean create something like the Agile Manifesto but for Product Engineering?
+---
+speaking: Miyagi
+text: >
+    Yes, to allow us to share any ideas we have for better ways of engineering products with the group.
+---
+speaking: Adriana
+text: >
+    I like where this is going, let me start by suggesting a couple of items for inclusion.
+---
+speaking: Adriana
+text: >
+    We need to have a focus on Customers and to make Data Driven Decisions.
+---
+speaking: Pennyworth
+text: >
+    I think we should encourage more upfront Ideation, Validation, and Realization.
+---
+speaking: Paulo
+text: >
+    We want to establish a culture to Engage, Coach, Empower, Support Teams and Team Members.
+---
+speaking: Miyagi
+text: >
+    These are all good ideas folks, keep them coming.
+---
+speaking: Adriana
+text: >
+    Teams should design and develop loosely coupled systems using APIs, Microservices, and Integrations.
+---
+speaking: Adriana
+text: >
+    The development teams need to be encouraged to adapt the 3 ways of DevOps.
+---
+speaking: Adriana
+text: >
+    They should also be encouraged to strive for Continuous Integration & Continuous Delivery.
+---
+speaking: Pennyworth
+text: >
+    We have to increase the use of Inner Source and move towards having Everything as Code.
+---
+speaking: Paulo
+text: >
+    We need to move fast and ensure we value Practice over Theory and Guidelines over Standards.
+---
+speaking: Miyagi
+text: >
+    I think we have the basis for our Product Engineering Manifesto version 1.
+---
+speaking: Pennyworth
+text: >
+    Agree.
+---
+speaking: Pennyworth
+text: >
+    Lets work on creating and socializing a Product Engineering Manifesto from those excellent suggestions.
+---
+speaking: Pennyworth
+text: >
+    But before we proceed, let's ask some questions of [student].

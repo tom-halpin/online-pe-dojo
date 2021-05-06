@@ -1,0 +1,113 @@
+{
+  "pathwayTitle": "Online Product Engineering Dojo",
+  "title": "Design Thinking",
+  "private": true,
+  "description": "Introduction to Design Thinking in Product Engineering.",
+  "difficulty": "beginner",
+  "time": "30 minutes",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Welcome",
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
+      },
+      {
+        "title": "Role of Design Thinking",
+        "text": "step2.md",
+        "verify": "step2-verify.sh"
+      },
+      {
+        "title": "Design Thinking",
+        "text": "step3.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step4.md",
+        "answer": "step4-answer.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step5.md",
+        "answer": "step5-answer.md"
+      },
+      {
+        "title": "Design Thinking vs Traditional Thinking",
+        "text": "step6.md"
+      },
+      {
+        "title": "Key Elements and Challenges",
+        "text": "step7.md"
+      },
+      {
+        "title": "IDEO Design Thinking Process",
+        "text": "step8.md"
+      },
+      {
+        "title": "Getting Started with Design Thinking",
+        "text": "step9.md",
+        "verify": "step9-verify.sh"
+      },
+      {
+        "title": "Assessment",
+        "text": "step10.md",
+        "answer": "step10-answer.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step11.md",
+        "answer": "step11-answer.md"
+      },
+      {
+        "title": "Curious Student - Challenge",
+        "text": "step12.md"
+      }
+    ],
+    "assets": {
+      "host01": [
+        {
+          "file": "dialog.py",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog1.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog1.yaml",
+          "target": "/root/"
+        },
+        {
+          "file": "dialog2.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog2.yaml",
+          "target": "/root/"
+        },
+        {
+          "file": "prereq.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        }
+      ]
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": false,
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nYou can type in and run shell commands here.\r\n\u001b[m"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "pathwayTitle": "Online Product Engineering Dojo",
+  "title": "Getting Started",
+  "private": true,
+  "description": "Accessing current state of your teams Product Engineering practices and steps to take to improve",
+  "difficulty": "beginner",
+  "time": "30 minutes",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "Opening Scroll",
+        "text": "step1.md",
+        "verify": "step1-verify.sh"
+      },
+      {
+        "title": "Improving Product Engineering Practices at Scale",
+        "text": "step2.md",
+        "verify": "step2-verify.sh"
+      },
+      {
+        "title": "Build Product Squads",
+        "text": "step3.md"
+      },
+      {
+        "title": "Product Squad Enablement",
+        "text": "step4.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step5.md",
+        "answer": "step5-answer.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step6.md",
+        "answer": "step6-answer.md"
+      },
+      {
+        "title": "Getting Started",
+        "text": "step7.md"
+      },
+      {
+        "title": "Lifecycle",
+        "text": "step8.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step9.md",
+        "answer": "step9-answer.md"
+      },
+      {
+        "title": "Assessment",
+        "text": "step10.md",
+        "answer": "step10-answer.md"
+      },
+      {
+        "title": "Integrating with Current Practices",
+        "text": "step11.md"
+      },
+      {
+        "title": "Curious Student Challenge",
+        "text": "step12.md"
+      }
+    ],
+    "assets": {
+      "host01": [
+        {
+          "file": "dialog.py",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog1.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        },
+        {
+          "file": "dialog1.yaml",
+          "target": "/root/"
+        },
+        {
+          "file": "prereq.sh",
+          "target": "/root/",
+          "chmod": "+x"
+        }
+      ]
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+    },
+  "environment": {
+    "hideintro": false,
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nYou can type in and run shell commands here.\r\n\u001b[m"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

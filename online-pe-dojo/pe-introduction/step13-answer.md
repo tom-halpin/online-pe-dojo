@@ -1,0 +1,1 @@
+The correct answer is **manifesto**. A team should create a Product Engineering manifesto as a declaration of values and principles.

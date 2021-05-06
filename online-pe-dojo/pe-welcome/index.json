@@ -1,0 +1,41 @@
+{
+  "pathwayTitle": "Online Product Engineering Dojo",
+  "title": "Welcome",
+  "private": true,
+  "description": "Getting started with the Online Product Engineering Dojo: revisiting the back story, ensuring your environment is setup correctly.",
+  "difficulty": "beginner",
+  "time": "30 minutes",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "The story",
+        "text": "step1.md"
+      },
+      {
+        "title": "The characters",
+        "text": "step2.md"
+      },
+      {
+        "title": "Curious Student - Challenge",
+        "text": "step3.md"
+      }
+    ],
+    "assets": {
+      "host01": []
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "hideintro": false,
+    "uilayout": "text",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nYou can type in and run shell commands here.\r\n\u001b[m"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

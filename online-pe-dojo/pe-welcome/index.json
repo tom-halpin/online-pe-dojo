@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online Product Engineering Dojo",
   "title": "Welcome",
-  "private": false,
+  "private": true,
   "description": "Getting started with the Online Product Engineering Dojo: revisiting the back story, ensuring your environment is setup correctly.",
   "difficulty": "beginner",
   "time": "30 minutes",

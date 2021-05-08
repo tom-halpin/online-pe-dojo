@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online Product Engineering Dojo",
   "title": "Introduction to Product Engineering",
-  "private": false,
+  "private": true,
   "description": "Introduction to Product Engineering - process for designing and developing better products.",
   "difficulty": "beginner",
   "time": "30 minutes",

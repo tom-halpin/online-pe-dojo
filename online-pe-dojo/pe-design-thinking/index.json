@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online Product Engineering Dojo",
   "title": "Design Thinking",
-  "private": true,
+  "private": false,
   "description": "Introduction to Design Thinking in Product Engineering.",
   "difficulty": "beginner",
   "time": "30 minutes",

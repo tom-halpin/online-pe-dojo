@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online Product Engineering Dojo",
   "title": "Assessment",
-  "private": true,
+  "private": false,
   "description": "This module contains a small exam. Pass the exam complete the dojo. Answers to all the questions are in the other modules.",
   "difficulty": "beginner",
   "time": "30 minutes",

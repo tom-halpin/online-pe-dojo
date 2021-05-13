@@ -1,7 +1,7 @@
 {
   "pathwayTitle": "Online Product Engineering Dojo",
   "title": "Getting Started",
-  "private": true,
+  "private": false,
   "description": "Accessing current state of your teams Product Engineering practices and steps to take to improve",
   "difficulty": "beginner",
   "time": "30 minutes",

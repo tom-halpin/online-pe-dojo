@@ -24,7 +24,7 @@ Following a series of workshops the team decide to recommend and start to implem
 
 The team aim to ensure the recommended Product Engineering lifecycle becomes seamlessly integrated with Agile, Lean and DevOps practices:
 
-![](../../assets/online-pe-dojo/pe-getting-started/enterprise-best-practices.png)
+![](../../assets/online-pe-dojo/pe-introduction/enterprise-best-practices.png)
 
 They believe Design Thinking to have the potential to become a key enabler of the **Ideation and Conceptualization** and **Architecture and Prototyping** phases of the Product Engineering lifecycle.
 

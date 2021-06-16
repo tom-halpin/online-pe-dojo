@@ -1,5 +1,5 @@
 
-![](../../assets/online-pe-dojo/pe-introduction/charlie.png)
+![](../../assets/online-pe-dojo/pe-welcome/charlie.png)
 
 **C**harlie is keen to ensure that the teams working in his group of companies apply the discipline of Product Engineering when designing and developing solutions.
 

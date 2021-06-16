@@ -16,7 +16,7 @@ Design Thinking takes a different approach an approach which:
 - Prototypes, once tested, are turned into products and services to improve user experiences.
 
 | Traditional Thinking || Design Thinking|
-| --- | --- |
+| --- | --- | --- |
 | Top Down Communication | | Bi-directional Communication |
 | Focus on avoiding mistakes | | Learn from mistakes |
 | Reports, documentation & gates | | Show, don't tell |

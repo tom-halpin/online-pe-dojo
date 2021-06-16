@@ -3,11 +3,11 @@ The team working to improve Product Engineering practices across the companies i
 
 |   |   |
 |---|---|
-| |![](../../assets/online-pe-dojo/pe-introduction/miyagi.png)| **Miyagi** Product Engineering Coach and Mentor tasked with increasing the use of Product Engineering within the Universal Imports Group.|
-| |![](../../assets/online-pe-dojo/pe-introduction/pennyworth.png)| **Pennyworth**   Project Manager from The Daily Mentioner National Newspaper, part of the Universal Imports Group of companies, tasked with chairing the effort.|
-| |![](../../assets/online-pe-dojo/pe-introduction/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company, part of the Universal Imports Group of companies, lending her expertise to the Product Engineering effort.|
-| |![](../../assets/online-pe-dojo/pe-introduction/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
-| |![](../../assets/online-pe-dojo/pe-getting-started/brenda.png)| **Brenda**  Business representative from the Pet Clinic who was the main Business champion of the DevOps transformation.|
+| |![](../../assets/online-pe-dojo/pe-design-thinking/miyagi.png)| **Miyagi** Product Engineering Coach and Mentor tasked with increasing the use of Product Engineering within the Universal Imports Group.|
+| |![](../../assets/online-pe-dojo/pe-design-thinking/pennyworth.png)| **Pennyworth**   Project Manager from The Daily Mentioner National Newspaper, part of the Universal Imports Group of companies, tasked with chairing the effort.|
+| |![](../../assets/online-pe-dojo/pe-design-thinking/adriana.png)| **Adriana**  Architect from the InGen Space Exploration Company, part of the Universal Imports Group of companies, lending her expertise to the Product Engineering effort.|
+| |![](../../assets/online-pe-dojo/pe-design-thinking/paulo.png)| **Paulo**  Product Owner for the Pet Clinic Application.|
+| |![](../../assets/online-pe-dojo/pe-design-thinking/brenda.png)| **Brenda**  Business representative from the Pet Clinic who was the main Business champion of the DevOps transformation.|
 
 They have recommended the following Product Engineering lifecycle
 

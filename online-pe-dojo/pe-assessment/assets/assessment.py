@@ -64,6 +64,7 @@ def run_quiz(questions):
      print("\033[1;34;40m Instructions:\n\n")
      print("\033[1;34;40m - Click anywhere on this terminal window to activate the cursor.\n")
      print("\033[1;34;40m - Press return to start the assessment.\n")
+     print("\033[1;34;40m - To answer a question enter the letter corresponding to your answer.\n")
      print("\033[1;34;40m - When you have answered a question press return to proceed to the next question.\n\n")
      input("\033[1;37;40m This is the way!")
 
